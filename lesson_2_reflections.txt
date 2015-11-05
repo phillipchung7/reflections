@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+	Git init creates a repository. You need a repository to store files in a group and
+	track changes using "git status".
+
